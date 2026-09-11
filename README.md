@@ -101,8 +101,13 @@ _2019 – 2025_
 
 ## 📜 Sertifikalar
 
-- [Sertifika Adı](link) — [Veren Kurum], [Yıl]
-- [Sertifika Adı](link) — [Veren Kurum], [Yıl]
+- Clean Code — Academind by Maximilian Schwarzmüller, 2026
+- TEnsorflow for Deep Learning Bootcamp, ZTM, 2025
+- Complete A.I. & Machine Learning Bootcamp, ZTM, 2024
+- Matlab, Mathworks
+- Simulink, Mathworks
+- Duygusal Özgürlük — Oğuz Benlioğlu Akademi, 2025
+- Zor Zamanlarda Stres Yönetimi — Oğuz Benlioğlu Akademi, 2025
 
 ---
 
