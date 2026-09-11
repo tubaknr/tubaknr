@@ -2,7 +2,7 @@
 
 # Merhaba, ben Tuba Aydın 👋
 
-### [Backend Developer | Software Engineer]
+### Backend Developer | Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuba-aydin1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuba.aydin.contact@gmail.com)
@@ -13,12 +13,11 @@
 
 ## 👩‍💻 Hakkımda
 
-- 🔭 Şu anda **SoftITo/Mobile Application Developer** üzerinde çalışıyorum
-- 🌱 Şu anda **Algoritmalar** & **Mobile Geliştirme** öğreniyorum
-- 🤔 **Mentörlük** hakkında yardım arıyorum
+- 🔭 Şu anda **SoftITo**'da **Mobile Application Developer** olarak çalışıyorum
+- 🌱 Şu anda **Algoritmalar** ve **Mobil Geliştirme** öğreniyorum
+- 🤔 **Mentörlük** konusunda yardım arıyorum
 - 💬 Bana **JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz
 - 📫 Bana ulaşmak için: **tuba.aydin.contact@gmail.com**
-- ⚡ İlginç bilgi: **[kısa, akılda kalıcı bir bilgi]**
 
 ---
 
@@ -29,8 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-C
-C++
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
@@ -40,12 +39,11 @@ C++
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![LAravel]
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Veritabanı & Araçlar**
 
-SQL
-MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -53,35 +51,35 @@ MySQL
 
 ## 🚀 Öne Çıkan Projeler
 
-### [Proje Adı 1](https://github.com/tubaknr/Twitter-Full-Stack-Clone-Nextjs-MongoDB-NextAuth-Tailwind-Prisma)
+### [Twitter Full Stack Clone](https://github.com/tubaknr/Twitter-Full-Stack-Clone-Nextjs-MongoDB-NextAuth-Tailwind-Prisma)
 
-Projenin ne yaptığına dair 1-2 cümlelik açıklama. Kullanılan teknolojiler ve öne çıkan özellik.
+<!-- Projenin ne yaptığına dair 1-2 cümlelik açıklama ekle -->
 
-**Kullanılan teknolojiler:** React, Node.js, PostgreSQL
+**Kullanılan teknolojiler:** Next.js, MongoDB, NextAuth, Tailwind CSS, Prisma
 
 ---
 
-### [Proje Adı 2](https://github.com/tubaknr/Netflix-Clone-Nextjs-MongoDB-Tailwind-Prisma-NextAuth)
+### [Netflix Clone](https://github.com/tubaknr/Netflix-Clone-Nextjs-MongoDB-Tailwind-Prisma-NextAuth)
 
-Projenin ne yaptığına dair 1-2 cümlelik açıklama. Kullanılan teknolojiler ve öne çıkan özellik.
+<!-- Projenin ne yaptığına dair 1-2 cümlelik açıklama ekle -->
 
-**Kullanılan teknolojiler:** Python, Django, Docker
+**Kullanılan teknolojiler:** Next.js, MongoDB, Tailwind CSS, Prisma, NextAuth
 
-https://github.com/tubaknr/algorithms
+---
 
-https://github.com/tubaknr/data-types
+## 🧠 Algoritma & Veri Bilimi Projeleri
 
----https://github.com/tubaknr/Binary-Classification-TensorFlow-Sklearn-Mushrooms-Dataset
-
-https://github.com/tubaknr/MNIST-Classification-using-Sklearn-Machine-Learning
-
-https://github.com/tubaknr/MNIST-TensorFlow-ConvolutionalNN
+- [Algorithms](https://github.com/tubaknr/algorithms)
+- [Data Types](https://github.com/tubaknr/data-types)
+- [Binary Classification — TensorFlow & Sklearn (Mushrooms Dataset)](https://github.com/tubaknr/Binary-Classification-TensorFlow-Sklearn-Mushrooms-Dataset)
+- [MNIST Classification — Sklearn](https://github.com/tubaknr/MNIST-Classification-using-Sklearn-Machine-Learning)
+- [MNIST — TensorFlow Convolutional NN](https://github.com/tubaknr/MNIST-TensorFlow-ConvolutionalNN)
 
 ---
 
 ## 🎓 Eğitim
 
-**Mekatronik Mühendsliği (100% İngilizce)** — Yıldız Teknik Üniversitesi
+**Mekatronik Mühendisliği** (%100 İngilizce) — Yıldız Teknik Üniversitesi
 _2019 – 2025_
 
 ---
@@ -97,9 +95,9 @@ _2019 – 2025_
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanici-adin&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanici-adin&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kullanici-adin)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tubaknr&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tubaknr&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tubaknr)
 
 </div>
 
@@ -107,9 +105,8 @@ _2019 – 2025_
 
 ## 📫 İletişim
 
-- 📧 Email: [mail@ornek.com](mailto:mail@ornek.com)
-- 💼 LinkedIn: [linkedin.com/in/kullanici-adin](https://linkedin.com/in/kullanici-adin)
-- 🌐 Portfolyo: [portfolyo-siten.com](https://portfolyo-siten.com)
+- 📧 Email: [tuba.aydin.contact@gmail.com](mailto:tuba.aydin.contact@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/tuba-aydin1](https://linkedin.com/in/tuba-aydin1)
 
 <div align="center">
 
