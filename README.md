@@ -82,16 +82,6 @@
 
 ---
 
-## Derinlemesine Öğrenmek İstediğim Konular
-
-- System architecures
-- Design patterns & principles
-- Devops
-- Nodejs & Backend - ileri seviye olarak
-- Database - ileri seviye olarak
-
----
-
 ## 🎓 Eğitim
 
 **Mekatronik Mühendisliği** (%100 İngilizce) — Yıldız Teknik Üniversitesi
@@ -108,6 +98,7 @@ _2019 – 2025_
 - Simulink, Mathworks
 - Duygusal Özgürlük — Oğuz Benlioğlu Akademi, 2025
 - Zor Zamanlarda Stres Yönetimi — Oğuz Benlioğlu Akademi, 2025
+- Devamı eklenecek...
 
 ---
 
