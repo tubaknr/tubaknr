@@ -14,9 +14,9 @@
 ## 👩‍💻 Hakkımda
 
 - 🔭 Şu anda **SoftITo**'da **Mobile Application Developer** kursunda eğitim görüyorum.
-- 🌱 Şu anda **Algoritmalar** ve **Mobil Geliştirme** öğreniyorum
+- 🌱 **Algoritmalar**, **Mobil Geliştirme** öğreniyorum
 - 🤔 **Mentörlük** konusunda yardım arıyorum
-- 💬 Bana **JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz
+- 💬 Bana **Clean Code, Algoritmalar, JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz
 - 📫 Bana ulaşmak için: **tuba.aydin.contact@gmail.com**
 
 ---
