@@ -13,7 +13,7 @@
 
 ## 👩‍💻 Hakkımda
 
-- 🔭 Şu anda **SoftITo**'da **Mobile Application Developer** olarak çalışıyorum
+- 🔭 Şu anda **SoftITo**'da **Mobile Application Developer** kursunda eğitim görüyorum.
 - 🌱 Şu anda **Algoritmalar** ve **Mobil Geliştirme** öğreniyorum
 - 🤔 **Mentörlük** konusunda yardım arıyorum
 - 💬 Bana **JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz
@@ -71,9 +71,24 @@
 
 - [Algorithms](https://github.com/tubaknr/algorithms)
 - [Data Types](https://github.com/tubaknr/data-types)
+
+---
+
+## 🧠 Yapay Zeka Projeleri
+
 - [Binary Classification — TensorFlow & Sklearn (Mushrooms Dataset)](https://github.com/tubaknr/Binary-Classification-TensorFlow-Sklearn-Mushrooms-Dataset)
 - [MNIST Classification — Sklearn](https://github.com/tubaknr/MNIST-Classification-using-Sklearn-Machine-Learning)
 - [MNIST — TensorFlow Convolutional NN](https://github.com/tubaknr/MNIST-TensorFlow-ConvolutionalNN)
+
+---
+
+## Derinlemesine Öğrenmek İstediğim Konular
+
+- System architecures
+- Design patterns & principles
+- Devops
+- Nodejs & Backend - ileri seviye olarak
+- Database - ileri seviye olarak
 
 ---
 
