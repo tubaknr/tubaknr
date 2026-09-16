@@ -1,27 +1,29 @@
 <div align="center">
 
-# Merhaba, ben Tuba Aydın 👋
-
-### Backend Developer | Software Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuba-aydin1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuba.aydin.contact@gmail.com)
-
-</div>
+# Tuba Aydın
 
 ---
 
-## 👩‍💻 Hakkımda
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuba-aydin1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuba.aydin.contact@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tubanurr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tubaknr)
+
+</div>
+
+## 👩‍💻 Backend Engineer
+
+---
 
 - 🔭 Şu anda **SoftITo**'da **Mobile Application Developer** kursunda eğitim görüyorum.
-- 🌱 **Algoritmalar**, **Mobil Geliştirme** öğreniyorum
-- 🤔 **Mentörlük** konusunda yardım arıyorum
-- 💬 Bana **Clean Code, Algoritmalar, JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz
+- 🌱 **Algoritmalar** ve **Mobil Geliştirme** üzerine kendimi geliştiriyorum.
+- 🤔 **Mentörlük** konusunda destek arıyorum.
+- 💬 Bana **Clean Code, Algoritmalar, JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz.
 - 📫 Bana ulaşmak için: **tuba.aydin.contact@gmail.com**
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## 🛠️ Tech Stack
 
 **Diller**
 
@@ -43,6 +45,7 @@
 
 **Veritabanı & Araçlar**
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -53,7 +56,7 @@
 
 ### [Twitter Full Stack Clone](https://github.com/tubaknr/Twitter-Full-Stack-Clone-Nextjs-MongoDB-NextAuth-Tailwind-Prisma)
 
-<!-- Projenin ne yaptığına dair 1-2 cümlelik açıklama ekle -->
+Kimlik doğrulama, gönderi paylaşma, beğenme ve takip etme gibi temel özelliklere sahip, Twitter'ın tam yığın (full-stack) bir klonu.
 
 **Kullanılan teknolojiler:** Next.js, MongoDB, NextAuth, Tailwind CSS, Prisma
 
@@ -61,7 +64,7 @@
 
 ### [Netflix Clone](https://github.com/tubaknr/Netflix-Clone-Nextjs-MongoDB-Tailwind-Prisma-NextAuth)
 
-<!-- Projenin ne yaptığına dair 1-2 cümlelik açıklama ekle -->
+Kullanıcı girişi, favori listesi ve içerik listeleme özellikleriyle Netflix arayüzünü yeniden oluşturan bir full-stack proje.
 
 **Kullanılan teknolojiler:** Next.js, MongoDB, Tailwind CSS, Prisma, NextAuth
 
@@ -69,8 +72,8 @@
 
 ## 🧠 Algoritma & Veri Bilimi Projeleri
 
-- [Algorithms](https://github.com/tubaknr/algorithms)
-- [Data Types](https://github.com/tubaknr/data-types)
+- [Algorithms](https://github.com/tubaknr/algorithms) — Temel algoritma uygulamaları ve çözümleri.
+- [Data Types](https://github.com/tubaknr/data-types) — Veri yapıları ve tipleri üzerine örnek çalışmalar.
 
 ---
 
@@ -92,10 +95,10 @@ _2019 – 2025_
 ## 📜 Sertifikalar
 
 - Clean Code — Academind by Maximilian Schwarzmüller, 2026
-- TEnsorflow for Deep Learning Bootcamp, ZTM, 2025
-- Complete A.I. & Machine Learning Bootcamp, ZTM, 2024
-- Matlab, Mathworks
-- Simulink, Mathworks
+- TensorFlow for Deep Learning Bootcamp — ZTM, 2025
+- Complete A.I. & Machine Learning Bootcamp — ZTM, 2024
+- Matlab — MathWorks
+- Simulink — MathWorks
 - Duygusal Özgürlük — Oğuz Benlioğlu Akademi, 2025
 - Zor Zamanlarda Stres Yönetimi — Oğuz Benlioğlu Akademi, 2025
 - Devamı eklenecek...
