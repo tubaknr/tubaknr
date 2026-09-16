@@ -12,8 +12,8 @@
 ## 👩‍💻 Backend Engineer
 
 - 🔭 Şu anda **SoftITo**'da **Mobile Application Developer** kursunda eğitim görüyorum.
-- 🌱 **Algoritmalar** ve **Mobil Geliştirme** üzerine kendimi geliştiriyorum.
-- 🤔 **Mentörlük** konusunda destek arıyorum.
+- 🌱 **Backend** ve **Mobil Geliştirme** üzerine kendimi geliştiriyorum.
+- 🤔 **Mentörlük** ve **Backend** konusunda destek arıyorum.
 - 💬 Bana **Clean Code, Algoritmalar, JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz.
 
 ---
@@ -51,13 +51,17 @@
 
 ### [Twitter Full Stack Clone](https://github.com/tubaknr/Twitter-Full-Stack-Clone-Nextjs-MongoDB-NextAuth-Tailwind-Prisma)
 
+- Nextjs, MongoDB, NextAuth, Tailwind, Prisma
+
 Kimlik doğrulama, gönderi paylaşma, beğenme ve takip etme gibi temel özelliklere sahip, Twitter'ın tam yığın (full-stack) bir klonu.
 
 **Kullanılan teknolojiler:** Next.js, MongoDB, NextAuth, Tailwind CSS, Prisma
 
 ---
 
-### [Netflix Clone](https://github.com/tubaknr/Netflix-Clone-Nextjs-MongoDB-Tailwind-Prisma-NextAuth)
+### [Netflix Full Stack Clone](https://github.com/tubaknr/Netflix-Clone-Nextjs-MongoDB-Tailwind-Prisma-NextAuth)
+
+- Nextjs, MongoDB, Tailwind, Prisma, NextAuth
 
 Kullanıcı girişi, favori listesi ve içerik listeleme özellikleriyle Netflix arayüzünü yeniden oluşturan bir full-stack proje.
 
