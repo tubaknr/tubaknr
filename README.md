@@ -2,8 +2,6 @@
 
 # Tuba Aydın
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuba-aydin1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuba.aydin.contact@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tubanurr)
@@ -13,13 +11,10 @@
 
 ## 👩‍💻 Backend Engineer
 
----
-
 - 🔭 Şu anda **SoftITo**'da **Mobile Application Developer** kursunda eğitim görüyorum.
 - 🌱 **Algoritmalar** ve **Mobil Geliştirme** üzerine kendimi geliştiriyorum.
 - 🤔 **Mentörlük** konusunda destek arıyorum.
 - 💬 Bana **Clean Code, Algoritmalar, JavaScript, TypeScript, Python** hakkında soru sorabilirsiniz.
-- 📫 Bana ulaşmak için: **tuba.aydin.contact@gmail.com**
 
 ---
 
@@ -94,7 +89,9 @@ _2019 – 2025_
 
 ## 📜 Sertifikalar
 
+- Nodejs — Academind by Maximilian Schwarzmüller, 2026
 - Clean Code — Academind by Maximilian Schwarzmüller, 2026
+- SQL & PostgreSQL - Stephen Grider, 2025
 - TensorFlow for Deep Learning Bootcamp — ZTM, 2025
 - Complete A.I. & Machine Learning Bootcamp — ZTM, 2024
 - Matlab — MathWorks
